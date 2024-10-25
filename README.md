@@ -1,2 +1,2 @@
-# stein_variational_gradient_descent
+# Stein Variational Gradient Descent
 Implementation of Stein Variational Gradient Descent in Julia
